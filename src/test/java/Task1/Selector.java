@@ -18,4 +18,3 @@ interface MainPage {
     @Selector(xpath = ".//*[@test-attr='button_search']")
     String buttonSearch();
 }
-
